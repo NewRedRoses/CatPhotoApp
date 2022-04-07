@@ -6,4 +6,4 @@ Started with bootstrap basics.
 
 ## Part 2
 
-Starts with jQuery. 
+Starts with jQuery. Mostly practice with jQuery and its components and common use cases.
