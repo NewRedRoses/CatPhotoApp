@@ -1,8 +1,8 @@
 # Cat Photo App Tutorial
-
-## Part I
-
 Following the https://www.freecodecamp.org/ tutorial on getting web devolemnt certificates. The main goal is to eventually create a "cat photo App". 
+## Part I
+Started with bootstrap basics. 
+
 
 ## Part 2
 
